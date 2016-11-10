@@ -1,55 +1,69 @@
 - name:
-    detail: Nextcode
-    i18n: nextcode
+    detail: Yujin Robot
+    i18n: yujinrobot
   desc:
-    detail: Now I am in Nextcode and develop website with Python code for genetic analysis.
-    i18n: nextcode_des
+    detail: Developing software and scripts for autonomous mobile robots delivering goods. Using Python and C++ in ROS.
+    i18n: yujinrobot_des
   date:
-    detail: Apr. 2016
-    i18n: nextcode_date
+    detail: February, 2016
+    i18n: yujinrobot_date
   job:
-    detail: Python Developer
-    i18n: nextcode_job
+    detail: Softare Engineer
+    i18n: yujinrobot_job
   icon: fa-plus-square
 
 - name:
-    detail: Netease Game
-    i18n: netease
+    detail: Graduation
+    i18n: master
   desc:
-    detail: In Netease game, I learned game service system and use Python code for ops.
-    i18n: netease_des
+    detail: "Graduate Thesis: Human-X Cooperative Teleoperation. GPA: 4.35/4.50"
+    i18n: master_des
   date:
-    detail: Jun. 2015
-    i18n: nextcode_date
+    detail: January, 2016
+    i18n: master_date
   job:
-    detail: Dev Ops
-    i18n: netease_job
-  icon: fa-gamepad
+    detail: Master of Science in Mechanical Engineering (Robotics)
+    i18n: master_job
+  icon: fa-graduation-cap
 
 - name:
-    detail: Ucloud
-    i18n: ucloud
+    detail: BioRobotics Lab, KOREATECH
+    i18n: biolab
+  desc:
+    detail: Research in Robot-Human Interaction and Teleoperation.
+    i18n: biolab_des
+  date:
+    detail: March, 2014
+    i18n: biolab_date
+  job:
+    detail: Graduate Research Assistant
+    i18n: biolab_job
+  icon: fa-flask
+
+- name:
+    detail: Wavetec
+    i18n: wavetec
   desc:
     detail: In ucloud, I started to deal with servers and Linux system and use shell scripts to manage massive server.
-    i18n: ucloud_des
+    i18n: wavetec_des
   date:
-    detail: Sep. 2013
-    i18n: ucloud_date
+    detail: June, 2013
+    i18n: wavetec_date
   job:
-    detail: Dev Ops
-    i18n: ucloud_job
+    detail: R&D Engineer
+    i18n: wavetec_job
   icon: fa-cloud
 
 - name:
     detail: Graduation
     i18n: college
   desc:
-    detail: At July 2013,I graduated from college and started my IT technology tour.
+    detail: "Graduated with First Division. GPA: 3.0/4.0"
     i18n: college_des
   date:
-    detail: Jul. 2013
+    detail: June, 2013
     i18n: college_date
   job:
-    detail: Student
+    detail: Bachelor of Engineering in Electronic Engineering
     i18n: college_job
   icon: fa-book

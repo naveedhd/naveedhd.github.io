@@ -13,7 +13,7 @@
   },
   "about_me":{
     "about_me": "About Me",
-    "des": "I am a Full Stack engineer with website development, automation Ops and writing scripts experience. Life is a continuous learning process, so work makes me more rigorous, travel makes my life more colorful. I can make lots of friends when I coding and travel."
+    "des": "I am a Software Engineer currently in Seoul helping autonomous mobile robots deliver goods. My interest lies in Robotics and background in Electronics and Control Engineering. Looking to sharpen my skills in Software Engineering and broadening my skill set and experience."
   },
   "skills":{
     "my_skills": "My Skills"
@@ -27,22 +27,26 @@
   },
   "career":{
     "my_career": "My Career",
-    "nextcode": "Nextcode",
-    "nextcode_des": "Now I am in Nextcode and develop website with Python code for genetic analysis.",
-    "nextcode_date": "Apr. 2016",
-    "nextcode_job": "Python Developer",
-    "netease": "Netease Game",
-    "netease_des": "In Netease game, I learned game service system and use Python code for ops.",
-    "netease_date": "Jun. 2015",
-    "netease_job": "Dev Ops",
-    "ucloud": "Ucloud",
-    "ucloud_des": "In ucloud, I started to deal with servers and Linux system and use shell scripts to manage massive server.",
-    "ucloud_date": "Sep. 2013",
-    "ucloud_job": "Dev Ops",
+    "yujinrobot": "Yujin Robot",
+    "yujinrobot_des": "Developing software and scripts for autonomous mobile robots delivering goods. Using Python and C++ in ROS.",
+    "yujinrobot_date": "February, 2016",
+    "yujinrobot_job": "Sofware Engineer",
+    "master": "Graduation",
+    "master_des": "Graduate Thesis: Human-X Cooperative Teleoperation. GPA: 4.35/4.50",
+    "master_date": "January, 2016",
+    "master_job": "Master of Science in Mechanical Engineering (Robotics)",
+    "biolab": "BioRobotics Lab, KOREATECH",
+    "biolab_des": "Research in Robot-Human Interaction and Teleoperation.",
+    "biolab_date": "March, 2014",
+    "biolab_job": "Graduate Research Assistant",
+    "wavetec": "Wavetec",
+    "wavetec_des": "In ucloud, I started to deal with servers and Linux system and use shell scripts to manage massive server.",
+    "wavetec_date": "June, 2013",
+    "wavetec_job": "R&D Engineer",
     "college": "Graduation",
-    "college_des": "At July 2013,I graduated from college and started my IT technology tour.",
-    "college_date": "Jul. 2013",
-    "college_job": "Student"
+    "college_des": "Graduated with First Division. GPA: 3.0/4.0",
+    "college_date": "June, 2013",
+    "college_job": "Bachelor of Engineering in Electronic Engineering"
   },
   "blog":{
     "my_blog": "My Blog"

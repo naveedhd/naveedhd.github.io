@@ -53,8 +53,8 @@ sections:
     css: 'contact'
 
 # google analytics
-ga:
-  id: UA-73784599-1
+# ga:
+#   id: UA-73784599-1
 
 # Build settings
 encoding: "utf-8"
